@@ -70,6 +70,9 @@ def create_radar_chart(df: pd.DataFrame) -> go.Figure:
       ),
       height=380,
   )
+  fig.update_traces(
+      hovertemplate = "<b>%{theta}</b>: %{r}%<extra></extra>",
+  )
   return fig
 
 
