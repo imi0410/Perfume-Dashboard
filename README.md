@@ -1,4 +1,4 @@
-##Perfume Analysis Dashboard
+## Perfume Analysis Dashboard
 
 An interactive data analysis and visualization web application built with Streamlit to explore perfume metadata, scent accords, and market trends.
 
