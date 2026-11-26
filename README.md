@@ -1,4 +1,4 @@
-Perfume Analysis Dashboard
+##Perfume Analysis Dashboard
 
 An interactive data analysis and visualization web application built with Streamlit to explore perfume metadata, scent accords, and market trends.
 
@@ -8,5 +8,6 @@ An interactive data analysis and visualization web application built with Stream
 - **Optimized Performance:** Fast in-memory data handling utilizing Streamlit's `@st.cache_data`.
 
 **Source:** [Perfume Dataset on Kaggle](https://www.kaggle.com/datasets/olgagmiufana1/fragrantica-com-fragrance-dataset)
+**Live Link Demo:** [View Dashboard](https://perfume-dashboard-5xbicvxzrdkjvmgmwhcna9.streamlit.app/)
 
 ![Dashboard Preview](assets/dashboard_preview.png)
